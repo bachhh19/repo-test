@@ -1,2 +1,2 @@
 #Demo
-Creation by command line
+Creation by terminal
